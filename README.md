@@ -47,3 +47,29 @@ Decision Trees are highly interpretable and can handle both **categorical** and 
 ---
 
 ## Project Structure
+
+├── datasets/ # CSV files for Iris, Boston Housing, California Housing
+├── notebooks/ # Jupyter notebooks with Python implementations
+├── scripts/ # Python scripts for training and evaluation
+├── README.md # Project overview and instructions
+
+
+---
+
+## Learning Outcomes
+- Understand Decision Tree mechanism for classification and regression.
+- Implement impurity metrics and feature selection.
+- Learn pruning techniques to reduce overfitting.
+- Perform hyperparameter tuning for optimized model performance.
+- Apply Decision Trees in real-world scenarios to generate business insights.
+
+---
+
+## Requirements
+- Python 3.x
+- scikit-learn
+- pandas
+- numpy
+- matplotlib / seaborn (optional for visualization)
+
+
