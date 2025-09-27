@@ -49,8 +49,11 @@ Decision Trees are highly interpretable and can handle both **categorical** and 
 ## Project Structure
 
 ├── datasets/ # CSV files for Iris, Boston Housing, California Housing
+
 ├── notebooks/ # Jupyter notebooks with Python implementations
+
 ├── scripts/ # Python scripts for training and evaluation
+
 ├── README.md # Project overview and instructions
 
 
